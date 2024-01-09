@@ -1,0 +1,17 @@
+{
+  "name": "io.github.evelynlikesgirls.vrctoolbox",
+  "displayName": "VRCToolbox",
+  "version": "1.0.0",
+  "description": "Tool to create an Animator for your VRChat avatars",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.3.0"
+  },
+  "author": {
+    "name": "evelyn",
+    "email": "evelynlikesgirls@gmail.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "F:\\Unity Projects\\tst123\\Packages\\io.github.evelynlikesgirls.vrctoolbox"
+}
